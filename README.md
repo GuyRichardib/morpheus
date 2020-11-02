@@ -1,43 +1,12 @@
+# morpheus
 
-#Team  morpheus
+Je suis revenu au point de départ en reprenant juste le premier commit avec ces commandes:
 
-## Membre de l'équipe
-    
-    -Richard
-    -Rachid
-    - Abdelilah
-## Taches:
-    -Add Turtututu
+     git checkout 7aa6e0d
+Cette commande permet de retourner au premier commit qui avait ce numéro de référence.
 
-# Morpheus (whatis)
-## L'information, c'est le pouvoir
+     git switch -c <nom d'une nouvelle branche>
+Cette commande-ci nous permet de directement créer une nouvelle branche afin de pouvoir push directement l'ancien commit sur une nouvelle branche.
 
-
-#morpheus
-
-Yo tout le monde
-
-
-
- _ salut tt le monde
- ---------------------
-
-
-Je m'appelle Richard
-
-    Hello darkness my old friend... 
-
-Ici on est 5: 
-* Abdelilah Zaidi
-* Rachid Abdellaoui
-* Guy Richard Ibambasi
-* Audrey Gilmant
-* Igor de Spirlet 
-
-* Abdelilah
-* Audrey
-* Guy
-* Igor
-* Rachid
-
-Courage à tous !
+    git push
+Pour finir il ne reste plus qu'à push sur votre nouvelle branche
