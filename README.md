@@ -1,5 +1,8 @@
-# morpheus
+# Morpheus (whatis)
+## L'information, c'est le pouvoir
 
+
+#morpheus
 =======
 Yo tout le monde
 
@@ -19,3 +22,11 @@ Ici on est 5:
 * Guy Richard Ibambasi
 * Audrey Gilmant
 * Igor de Spirlet 
+=======
+* Abdelilah
+* Audrey
+* Guy
+* Igor
+* Rachid
+
+Courage à tous !
